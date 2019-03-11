@@ -18,7 +18,7 @@ title: CareConnect
 email: ypeng88@gatech.edu
 
 description: Care Connect website
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/care-connect" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #jekyllrb
 github_username: # jekyll
